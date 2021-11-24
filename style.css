@@ -146,6 +146,13 @@ Media Queries
     position: relative;
   }
 
+  .position-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+  }
+
   .profile-img {
     left: 33%;
   }
